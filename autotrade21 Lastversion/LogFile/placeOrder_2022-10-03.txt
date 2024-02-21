@@ -1,0 +1,8 @@
+test, Sell to Close, EUR, USD, 40000.0, 20000.0
+test, Sell to Close, EUR, USD, 40000.0, 20000.0
+test, Sell to Open, EUR, USD, 0.0, 20000.0
+test, Buy to Close, EUR, USD, -20000.0, 20000.0
+test, Buy to Open, EUR, USD, 0.0, 20000.0
+test, Sell to Close, EUR, USD, 20000.0, 20000.0
+test, Sell to Open, EUR, USD, 0.0, 20000.0
+test, Buy to Close, EUR, USD, -20000.0, 20000.0
